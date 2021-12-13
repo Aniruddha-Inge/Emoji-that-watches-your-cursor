@@ -5,4 +5,4 @@
 ## Video of the project
 [Link of the Video](https://youtu.be/2OhnNXw27FI0)
 
-## If you want to play with the emoji, Click on [THIS](https://aniruddha-inge.github.io/Emoji-with-Animated-Eyes/) Link and Enjoy! 🥳
+## If you want to play with the emoji, Click on [THIS](https://aniruddha-inge.github.io/Emoji-that-watches-your-cursor/) Link and Enjoy! 🥳
